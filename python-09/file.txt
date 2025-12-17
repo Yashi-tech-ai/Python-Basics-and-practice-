@@ -1,0 +1,7 @@
+'r'	    Read (default)
+'w'	    Write (creates/overwrites)
+'a'	    Append (adds to end of file)
+'rb'	Read binary
+'wb'	Write binary
+'r+'	Read and write (no truncate)
+'w+'	Write and read (truncates)

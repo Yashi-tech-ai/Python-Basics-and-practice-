@@ -1,4 +1,3 @@
-for i in range(1,50):
-#     if(i == 25):
-#         break # exit the loop right now 
-#     print(i)
+words = ["yashi" , "anay"]
+for index,word in enumerate(words):
+    print(f"{index} -> {word}")

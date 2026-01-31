@@ -2,4 +2,4 @@ def greeting(name,ending = "Thank you"): # basically by default value di huyi ha
     # default maan lena 
     print(f"Good morning , {name} {ending}")
     
-greeting("Yashi","mar ja")
+greeting("Yashi","hello")

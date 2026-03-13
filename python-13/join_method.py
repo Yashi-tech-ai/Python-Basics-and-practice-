@@ -1,3 +1,3 @@
 a = ["Sushant","Singh","Rajput"]
-final = "gadha".join(a)
+final = "actor".join(a)
 print(final)

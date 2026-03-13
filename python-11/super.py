@@ -8,7 +8,7 @@ class programmer(employee):
     b = 3
 class manager(programmer):
     def __init__(self):
-        super().__init__()
+        super().__init__() # First run the parent method, then add our own behavior.
         print("i am a good girl 3")
     c = 2
 

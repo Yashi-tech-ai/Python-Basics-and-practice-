@@ -1,4 +1,4 @@
-class employee: # base class / parent class  = yahan pe jo change aayega na vo neeche wali class mein bhi aayega 
+class employee: # base class / parent class  = yahan pe jo change aayega  vo neeche wali class mein bhi aayega 
     company = "porsche"
     def show(self,name,salary):
         self.name = name 

@@ -5,7 +5,13 @@
 # print(poem)
  
 
-import pyttsx3
-engine = pyttsx3.init()
-engine.say("I will speak this text and i also know that yashi is the greates person alive at this point sho she should die better off")
-engine.runAndWait()
+# import pyttsx3
+# engine = pyttsx3.init()
+# engine.say("I will speak this text and i also know that yashi is the greates person alive at this point sho she should die better off")
+# engine.runAndWait()
+
+a = 'yashi'
+b = "yashiii"
+print(a)
+print(b)
+print(type(a))

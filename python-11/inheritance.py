@@ -16,7 +16,7 @@ class employee: # base class / parent class  = yahan pe jo change aayega  vo nee
 class programmer(employee): # inherit class / derived class = saare methods and attributes yahan aa jayenge upar change krte hi 
     company = "Maybach"
     def showlanguage(self):
-        print(f"The name is {self.name} and is good in {self.language}")
+        print(f"The name is {self.name} and is good in {self.salary}")
 
 
 a = employee()

@@ -9,7 +9,7 @@
 # f = open("my.txt","w")
 # f.write(St)
 # line = f.readline()  reads just one line from file
-f = open("my.txt","w")
+f = open("my.txt","r")
 lines = f.readlines() 
 print(lines,type(lines)) # reads all all lines but returns a list of strings
 # f.write() writes a string 

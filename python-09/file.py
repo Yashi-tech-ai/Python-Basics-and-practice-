@@ -1,3 +1,4 @@
+# to write in a file :- 
 # f = open("file.txt","r") # opens file and by default r is always there 
 # data = f.read() # to read a file 
 # print(data)

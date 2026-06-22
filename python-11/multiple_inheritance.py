@@ -1,7 +1,7 @@
 class employee: 
     def show(self):
         self.name = "default name"
-        self.compnay = "porsche"
+        self.company = "porsche"
         print(f"The name is {self.name} and salary is {self.company}")
 
 class coder:

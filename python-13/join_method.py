@@ -1,3 +1,4 @@
 a = ["Sushant","Singh","Rajput"]
-final = "actor".join(a)
+profession = "actor".join(a)
+final = profession.split("actor")
 print(final)
